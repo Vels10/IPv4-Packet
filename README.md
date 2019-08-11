@@ -8,7 +8,7 @@ Version no. of Internet Protocol used (e.g. IPv4).
 ## Header Length:
 Internet Header Length; Length of entire IP header.
 
-# DSCP:
+## DSCP:
 Differentiated Services Code Point; this is Type of Service.
 
 ## ECN:
